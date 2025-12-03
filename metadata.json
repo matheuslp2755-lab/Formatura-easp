@@ -1,0 +1,8 @@
+{
+  "name": "Formatura EASP 2025 - MPLAY",
+  "description": "Plataforma de transmissão ao vivo para a formatura EASP 2025.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
